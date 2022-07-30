@@ -7,7 +7,7 @@ I have modified Typora default theme  `github.css`,  so that it looks like Stack
 > - **Lato** font family
 > - **Fira Code** font family
 
-## How to Insatll
+## How to Install
 
 **Step 1.** Copy `stackedit+.css` into your Typora theme folder.
 
